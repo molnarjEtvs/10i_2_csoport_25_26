@@ -1,0 +1,250 @@
+DEX: 1
+NEV: Bulbasaur
+ERO/UGRASSIM: 99.45KP / 264.03975m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 2
+NEV: Ivysaur
+ERO/UGRASSIM: 119.36KP / 316.9008m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 3
+NEV: Venusaur
+ERO/UGRASSIM: 129.45KP / 343.68974999999995m
+KEPESSEG/CSOPORT: gurulás / fiatal
+*********************************
+DEX: 4
+NEV: Charmander
+ERO/UGRASSIM: 180.0KP / 477.9m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 5
+NEV: Charmeleon
+ERO/UGRASSIM: 99.66KP / 264.5973m
+KEPESSEG/CSOPORT: párolgás / fiatal
+*********************************
+DEX: 6
+NEV: Charizard
+ERO/UGRASSIM: 149.34KP / 396.4977m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 7
+NEV: Squirtle
+ERO/UGRASSIM: 121.34KP / 322.1577m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 8
+NEV: Wartortle
+ERO/UGRASSIM: 159.23KP / 422.75564999999995m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 9
+NEV: Blastoise
+ERO/UGRASSIM: 131.33KP / 348.68115m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 10
+NEV: Caterpie
+ERO/UGRASSIM: 138.53KP / 367.79715000000004m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 11
+NEV: Metapod
+ERO/UGRASSIM: 199.22KP / 528.9291m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 12
+NEV: Butterfree
+ERO/UGRASSIM: 299.99KP / 796.4734500000001m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 13
+NEV: Weedle
+ERO/UGRASSIM: 309.45KP / 821.58975m
+KEPESSEG/CSOPORT: lövés / fiatal
+*********************************
+DEX: 14
+NEV: Kakuna
+ERO/UGRASSIM: 479.22KP / 1272.3291000000002m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 15
+NEV: Beedrill
+ERO/UGRASSIM: 511.11KP / 1356.99705m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 16
+NEV: Pidgey
+ERO/UGRASSIM: 127.65KP / 338.91075000000006m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 17
+NEV: Pidgeotto
+ERO/UGRASSIM: 344.34KP / 914.2227m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 18
+NEV: Pidgeot
+ERO/UGRASSIM: 157.1KP / 417.10049999999995m
+KEPESSEG/CSOPORT: gurulás / fiatal
+*********************************
+DEX: 19
+NEV: Rattata
+ERO/UGRASSIM: 963.45KP / 2557.9597500000004m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 20
+NEV: Raticate
+ERO/UGRASSIM: 887.77KP / 2357.02935m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 21
+NEV: Spearow
+ERO/UGRASSIM: 443.69KP / 1177.99695m
+KEPESSEG/CSOPORT: tűzhányás / fiatal
+*********************************
+DEX: 22
+NEV: Fearow
+ERO/UGRASSIM: 332.32KP / 882.3096m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 23
+NEV: Ekans
+ERO/UGRASSIM: 222.32KP / 590.2596000000001m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 24
+NEV: Arbok
+ERO/UGRASSIM: 110.12KP / 292.3686m
+KEPESSEG/CSOPORT: gurulás / fiatal
+*********************************
+DEX: 25
+NEV: Pikachu
+ERO/UGRASSIM: 244.34KP / 648.7227m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 26
+NEV: Raichu
+ERO/UGRASSIM: 344.94KP / 915.8157m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 27
+NEV: Sandshrew
+ERO/UGRASSIM: 554.76KP / 1472.8878m
+KEPESSEG/CSOPORT: gurulás / fiatal
+*********************************
+DEX: 28
+NEV: Sandslash
+ERO/UGRASSIM: 619.34KP / 1644.3477m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 29
+NEV: Nidoran
+ERO/UGRASSIM: 183.45KP / 487.05974999999995m
+KEPESSEG/CSOPORT: gurulás / fiatal
+*********************************
+DEX: 30
+NEV: Nidorina
+ERO/UGRASSIM: 115.76KP / 307.3428m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 31
+NEV: Nidoqueen
+ERO/UGRASSIM: 425.23KP / 1128.98565m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 32
+NEV: Nidoran
+ERO/UGRASSIM: 392.46KP / 1041.9813m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 33
+NEV: Nidorino
+ERO/UGRASSIM: 180.88KP / 480.2364m
+KEPESSEG/CSOPORT: párolgás / fiatal
+*********************************
+DEX: 34
+NEV: Nidoking
+ERO/UGRASSIM: 190.12KP / 504.7686m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 35
+NEV: Clefairy
+ERO/UGRASSIM: 215.43KP / 571.96665m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 36
+NEV: Clefable
+ERO/UGRASSIM: 183.43KP / 487.00665m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 37
+NEV: Vulpix
+ERO/UGRASSIM: 458.22KP / 1216.5741m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 38
+NEV: Ninetales
+ERO/UGRASSIM: 555.44KP / 1474.6932000000002m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 39
+NEV: Jigglypuff
+ERO/UGRASSIM: 333.66KP / 885.8673m
+KEPESSEG/CSOPORT: párolgás / fiatal
+*********************************
+DEX: 40
+NEV: Wigglytuff
+ERO/UGRASSIM: 325.85KP / 865.1317500000001m
+KEPESSEG/CSOPORT: tűzhányás / fiatal
+*********************************
+DEX: 41
+NEV: Zubat
+ERO/UGRASSIM: 458.21KP / 1216.54755m
+KEPESSEG/CSOPORT: tűzhányás / idős
+*********************************
+DEX: 42
+NEV: Golbat
+ERO/UGRASSIM: 963.14KP / 2557.1367m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 43
+NEV: Oddish
+ERO/UGRASSIM: 185.16KP / 491.5998m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 44
+NEV: Gloom
+ERO/UGRASSIM: 568.53KP / 1509.44715m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 45
+NEV: Vileplume
+ERO/UGRASSIM: 963.32KP / 2557.6146m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 46
+NEV: Paras
+ERO/UGRASSIM: 478.3KP / 1269.8865m
+KEPESSEG/CSOPORT: lövés / idős
+*********************************
+DEX: 47
+NEV: Parasect
+ERO/UGRASSIM: 258.11KP / 685.28205m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 48
+NEV: Venonat
+ERO/UGRASSIM: 963.23KP / 2557.37565m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
+DEX: 49
+NEV: Venomoth
+ERO/UGRASSIM: 183.67KP / 487.64385m
+KEPESSEG/CSOPORT: párolgás / idős
+*********************************
+DEX: 50
+NEV: Diglett
+ERO/UGRASSIM: 966.89KP / 2567.09295m
+KEPESSEG/CSOPORT: gurulás / idős
+*********************************
