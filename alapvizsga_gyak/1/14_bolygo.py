@@ -9,6 +9,7 @@ def bolygoRogzites():
             break
         bolygok.append(bolygo.capitalize())
     return bolygok
+
 def bolygoElemzes(bolygok:list):
     bolygokdb = len(bolygok)
     print(f"{bolygokdb} került rögzítésre.")
@@ -19,5 +20,6 @@ def bolygoElemzes(bolygok:list):
     print(f"4 betűsek száma:{darabszam}db")
     szoveg = "_$_".join(bolygok)
     print(f"Rögzített bolygók: {szoveg}")                   
+
 b = bolygoRogzites()
 bolygoElemzes(b)
