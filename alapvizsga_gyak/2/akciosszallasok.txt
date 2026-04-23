@@ -1,0 +1,120 @@
+Szallas neve: Tóparti Panzió
+Ár/éjszaka/fő: 15000.0 Ft
+Kedvezmény mértéke: 30
+Kedvezményes éjszaka ára: 10500.0 Ft
+Szabad helyek száma: 16 db
+####################
+Szallas neve: Hegyi Menedék
+Ár/éjszaka/fő: 13254.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 12591.3 Ft
+Szabad helyek száma: 18 db
+####################
+Szallas neve: Városi Hotel
+Ár/éjszaka/fő: 20069.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 19065.55 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Nyári Apartman
+Ár/éjszaka/fő: 9848.0 Ft
+Kedvezmény mértéke: 30
+Kedvezményes éjszaka ára: 6893.6 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Dunaparti Villa
+Ár/éjszaka/fő: 13660.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 12977.0 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Csendes Faház
+Ár/éjszaka/fő: 27650.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 26267.5 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Napsugár Motel
+Ár/éjszaka/fő: 13292.0 Ft
+Kedvezmény mértéke: 20
+Kedvezményes éjszaka ára: 10633.6 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Fenyves Vendégház
+Ár/éjszaka/fő: 28696.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 27261.2 Ft
+Szabad helyek száma: 20 db
+####################
+Szallas neve: Kék Lagúna
+Ár/éjszaka/fő: 14245.0 Ft
+Kedvezmény mértéke: 20
+Kedvezményes éjszaka ára: 11396.0 Ft
+Szabad helyek száma: 12 db
+####################
+Szallas neve: Aranypart Hotel
+Ár/éjszaka/fő: 24927.0 Ft
+Kedvezmény mértéke: 30
+Kedvezményes éjszaka ára: 17448.9 Ft
+Szabad helyek száma: 14 db
+####################
+Szallas neve: Panoráma Panzió
+Ár/éjszaka/fő: 26930.0 Ft
+Kedvezmény mértéke: 20
+Kedvezményes éjszaka ára: 21544.0 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Meseház Hostel
+Ár/éjszaka/fő: 17618.0 Ft
+Kedvezmény mértéke: 20
+Kedvezményes éjszaka ára: 14094.4 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Szivárvány Pihenő
+Ár/éjszaka/fő: 11637.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 11055.15 Ft
+Szabad helyek száma: 20 db
+####################
+Szallas neve: Zöld Domb
+Ár/éjszaka/fő: 22425.0 Ft
+Kedvezmény mértéke: 10
+Kedvezményes éjszaka ára: 20182.5 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Fenyőliget Kemping
+Ár/éjszaka/fő: 17068.0 Ft
+Kedvezmény mértéke: 10
+Kedvezményes éjszaka ára: 15361.2 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Hóvirág Apartman
+Ár/éjszaka/fő: 18171.0 Ft
+Kedvezmény mértéke: 30
+Kedvezményes éjszaka ára: 12719.7 Ft
+Szabad helyek száma: 13 db
+####################
+Szallas neve: Tiszavirág Vendégház
+Ár/éjszaka/fő: 26051.0 Ft
+Kedvezmény mértéke: 30
+Kedvezményes éjszaka ára: 18235.7 Ft
+Szabad helyek száma: 14 db
+####################
+Szallas neve: Naplemente Villa
+Ár/éjszaka/fő: 26970.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 25621.5 Ft
+Szabad helyek száma: 21 db
+####################
+Szallas neve: Kristály Hotel
+Ár/éjszaka/fő: 24537.0 Ft
+Kedvezmény mértéke: 5
+Kedvezményes éjszaka ára: 23310.15 Ft
+Szabad helyek száma: 8 db
+####################
+Szallas neve: Tulipán Motel
+Ár/éjszaka/fő: 12889.0 Ft
+Kedvezmény mértéke: 10
+Kedvezményes éjszaka ára: 11600.1 Ft
+Szabad helyek száma: 21 db
+####################

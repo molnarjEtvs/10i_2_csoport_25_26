@@ -16,3 +16,8 @@ while True:
         print(f"{nev} sikeres vizsgát tett!")
     else:
         print(f"{nev} SIKERTELEN vizsgát tett!")
+
+
+def hello(nev):
+    return "hello"
+    print(nev)
